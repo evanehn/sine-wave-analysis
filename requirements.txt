@@ -1,0 +1,6 @@
+### Packages needed to run the program:
+
+numpy
+matplotlib
+pandas
+astroquery
